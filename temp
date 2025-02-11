@@ -1,0 +1,8 @@
+<div class="form-group validcolor" id="subNoColorDiv" style="display:none">
+								<label for="subNoColor">Provide panel sub color :</label>
+                                <div class="form-group validsubnocolor">
+                                <input class="form-control" name="subNoColor" id="subNoColor" type="text" placeholder="panel sub color" required data-error="Please enter panel sub color">
+                                <div class="input-group-icon"><i class="fa-solid fa-gear"></i></div>
+                                <div class="help-block with-errors"></div>
+								</div>
+                              </div>
