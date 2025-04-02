@@ -1,0 +1,20 @@
+[19-Feb-2025 20:56:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/configurators/public_html/gr/quote-process.php:1) in /home/configurators/public_html/gr/quote-process.php on line 5
+[19-Feb-2025 21:10:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/configurators/public_html/gr/quote-process.php:1) in /home/configurators/public_html/gr/quote-process.php on line 5
+[19-Feb-2025 21:19:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/configurators/public_html/gr/quote-process.php:1) in /home/configurators/public_html/gr/quote-process.php on line 5
+[19-Feb-2025 21:23:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/configurators/public_html/gr/quote-process.php:1) in /home/configurators/public_html/gr/quote-process.php on line 5
+[19-Feb-2025 21:25:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/configurators/public_html/gr/quote-process.php:1) in /home/configurators/public_html/gr/quote-process.php on line 5
+[25-Feb-2025 12:57:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/configurators/public_html/gr/quote-process.php:1) in /home/configurators/public_html/gr/quote-process.php on line 5
+[25-Feb-2025 12:57:16 UTC] PHP Warning:  Undefined array key "panel_cut" in /home/configurators/public_html/gr/generate_pdf.php on line 136
+[25-Feb-2025 12:57:16 UTC] PHP Warning:  Undefined array key "inox_316" in /home/configurators/public_html/gr/generate_pdf.php on line 138
+[25-Feb-2025 13:03:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/configurators/public_html/gr/quote-process.php:1) in /home/configurators/public_html/gr/quote-process.php on line 5
+[25-Feb-2025 13:03:13 UTC] PHP Warning:  Undefined array key "panel_cut" in /home/configurators/public_html/gr/generate_pdf.php on line 136
+[25-Feb-2025 13:03:13 UTC] PHP Warning:  Undefined array key "inox_316" in /home/configurators/public_html/gr/generate_pdf.php on line 138
+[26-Feb-2025 09:56:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/configurators/public_html/gr/quote-process.php:1) in /home/configurators/public_html/gr/quote-process.php on line 5
+[26-Feb-2025 09:56:02 UTC] PHP Warning:  Undefined array key "panel_cut" in /home/configurators/public_html/gr/generate_pdf.php on line 136
+[26-Feb-2025 09:56:02 UTC] PHP Warning:  Undefined array key "inox_316" in /home/configurators/public_html/gr/generate_pdf.php on line 138
+[26-Feb-2025 11:25:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/configurators/public_html/gr/quote-process.php:1) in /home/configurators/public_html/gr/quote-process.php on line 5
+[26-Feb-2025 11:25:38 UTC] PHP Warning:  Undefined array key "panel_cut" in /home/configurators/public_html/gr/generate_pdf.php on line 136
+[26-Feb-2025 11:25:38 UTC] PHP Warning:  Undefined array key "inox_316" in /home/configurators/public_html/gr/generate_pdf.php on line 138
+[27-Mar-2025 09:39:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/configurators/public_html/gr/quote-process.php:1) in /home/configurators/public_html/gr/quote-process.php on line 5
+[27-Mar-2025 09:39:51 UTC] PHP Warning:  Undefined array key "panel_cut" in /home/configurators/public_html/gr/generate_pdf.php on line 136
+[27-Mar-2025 09:39:51 UTC] PHP Warning:  Undefined array key "inox_316" in /home/configurators/public_html/gr/generate_pdf.php on line 138
